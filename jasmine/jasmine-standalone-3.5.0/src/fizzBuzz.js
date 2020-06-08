@@ -1,6 +1,6 @@
-function fizzBuzz(){
+class FizzBuzz {
 
-   print = function(){
-    return 5;
+   spin = function(){
+    return "Buzz";
   }
 }
